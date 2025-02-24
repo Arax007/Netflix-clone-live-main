@@ -32,4 +32,4 @@ This is a **Netflix-inspired landing page** built using **HTML, CSS and Javascri
 ## 📂 Installation & Usage  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/Arax007/Netflix-Clone-Webpage.git
+   git clone https://github.com/Arax007/Netflix-clone-live-main
