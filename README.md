@@ -24,7 +24,8 @@ This is a **Netflix-inspired landing page** built using **HTML and CSS**. The pr
 
 ## 🛠️ Technologies Used  
 - **HTML5** - Structure of the webpage  
-- **CSS3** - Styling and responsiveness  
+- **CSS3** - Styling and responsiveness
+- **JavaScript - Fade-in effects for smoother UI.
 
 ---
 
